@@ -125,7 +125,7 @@ Source [here](https://learnvue.co/2020/09/a-quick-vue3-infinite-scrolling-compon
 
 ```
 
-## Build Setup
+## Build Setup (automatically put)
 
 ```bash
 # install dependencies
