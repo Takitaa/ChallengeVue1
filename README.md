@@ -113,7 +113,7 @@ I had issues with my file name as it should have .module on it (example name.mod
 
 > Sass loader broke the browser, VS stepped in suggesting for me to get an extenstion, which I have: Live Sass Compiner and Sass
 
-> UPDATE about video-player: now I see that while I struggled with the sidepanel, the video-player was still hanging and broken, I managed to implement vjs code as seen [here](https://jsfiddle.net/u69gnx90/) only to see {{message}} as displayed in this playground. Imanaged to display it once I had properly installed the npm which somehow scaped me - I noticed the error I was having for Sass with issues on the npm looked alike the ones I was having from the video player (LIGHT BULB) and BINGO!
+> UPDATE about video-player: now I see that while I struggled with the sidepanel, the video-player was still hanging and broken, I managed to implement vjs code as seen [here](https://jsfiddle.net/u69gnx90/) only to see {{message}} as displayed in this playground. Imanaged to display it once I had properly installed the npm which somehow scaped me - I noticed the error I was having for Sass with issues on the npm looked alike the ones I was having from the video player 💡 and BINGO!
 
 Only then I switched to [vue-vam-video ](https://github.com/maomincoding/vue-vam-video)- not a fan of the asian characters going on in the code though.
 
