@@ -119,7 +119,7 @@ Only then I switched to [vue-vam-video ](https://github.com/maomincoding/vue-vam
 
 ## Mock async call Infinite Scroll
 
-> source [here](ll https://learnvue.co/2020/09/a-quick-vue3-infinite-scrolling-component-daily-vue-tips-4/#handling-vue3-infinite-scrollin)
+Source [here](https://learnvue.co/2020/09/a-quick-vue3-infinite-scrolling-component-daily-vue-tips-4/#handling-vue3-infinite-scrollin)
 
 ```
 
